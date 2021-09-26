@@ -1,0 +1,26 @@
+{
+  "name": "listing-discordtownshop-js",
+  "version": "1.0.0",
+  "description": "API for posting SC, listing.discordtownshop.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desixred-byte/listing-discordtownshop-js.git"
+  },
+  "keywords": [
+    "api",
+    "discordtownshop"
+  ],
+  "author": "desix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desixred-byte/listing-discordtownshop-js/issues"
+  },
+  "homepage": "https://github.com/Desixred-byte/listing-discordtownshop-js#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
